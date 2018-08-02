@@ -1,0 +1,17 @@
+CREATE TABLE `camps` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `name` char(49) CHARACTER SET utf8 DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_bin AUTO_INCREMENT=136 ;
+
+-- camps --
+INSERT INTO `camps` VALUES(1, 'Camp 1');
+INSERT INTO `camps` VALUES(2, 'Camp 2');
+INSERT INTO `camps` VALUES(3, 'Camp 3');
+INSERT INTO `camps` VALUES(4, 'Camp 4');
+INSERT INTO `camps` VALUES(5, 'Camp 5');
+INSERT INTO `camps` VALUES(6, 'Camp 6');
+INSERT INTO `camps` VALUES(7, 'Camp 7');
+INSERT INTO `camps` VALUES(8, 'Camp 8');
+INSERT INTO `camps` VALUES(9, 'Camp 9');
+INSERT INTO `camps` VALUES(10, 'Camp 10');

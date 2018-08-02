@@ -1,0 +1,1 @@
+CREATE TABLE hajj( id int NOT Null AUTO_INCREMENT,hajjName varchar(100),camp varchar(40),age int(2),gender varchar(7),country varchar(40),language varchar(40), PRIMARY KEY(id) )
