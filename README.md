@@ -9,8 +9,8 @@ The platform also provides the real time translation nased on the user's registe
 ----------------------
 
 Demo Links:-
-1- Data Entry:
-2- Tracker:
+1- Data Entry:https://mbroor.000webhostapp.com/camp_index.php
+2- Qr:https://mbroor.000webhostapp.com/QR/index.html
 
 
 
